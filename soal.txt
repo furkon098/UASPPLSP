@@ -1,18 +1,18 @@
-Nama:
-NPM:
-Kode Soal:
+Nama	: Furqon Teddy Pratama
+NPM  	: 19312307
+Kode Soal : A
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab:sistem informasi pemesanan makanan secara online nama webnya FoodEdu
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab:para siswa kehabisan waktu istirahatnya untuk makan dan melanjutkan aktivitas belajar dikelas
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab:membuat sebuah sistem yang memungkinkan siswa dan guru memesan makanan secara online dan melakukan pembayaran elektronik
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab:Sistem dikembangkan menggunakan platform web yang terintegrasi dengan keuangan sekolah. Pada sistem kantin menyimpan database menu, stok, pemesanan dan transaksi. Sistem terbagi menjadi dua module yakni admin untuk mengelola data dan user untuk menampilkan menu.
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab:kendala yang menjadi tantangan bagi saya dalam pengembangan proyek seperti waktu pengembangan yang terbatas karena sistem harus selesai pada tahun ajaran baru, anggaran dana yang terbatas untuk biaya hosting dan domain serta kesiapan infrastruktur IT pada sekolah yang belum memadai.
